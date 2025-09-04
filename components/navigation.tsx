@@ -29,7 +29,7 @@ export function Navigation() {
     { name: "Home", href: "#home" },
     { name: "Services", href: "#services" },
     { name: "Industries", href: "#industries" },
-    { name: "About", href: "#about" },
+    // { name: "About", href: "#about" },
     { name: "Contact", href: "#contact" },
   ];
 
